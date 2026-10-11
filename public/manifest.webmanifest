@@ -1,0 +1,9 @@
+{
+  "name": "Take Your Meds",
+  "short_name": "Meds",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f6f1e7",
+  "theme_color": "#2f5d50",
+  "icons": [{ "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }]
+}
